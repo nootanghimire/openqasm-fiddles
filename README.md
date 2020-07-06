@@ -6,6 +6,6 @@ Run the code on the circuit composer in the [IBM Quantum Computing experience](h
 
 I'll try and comment everything here, mostly for my future reference, but also in hopes that it will help any random voyager that lands in this repo.
 
-## Scripts:
+## Programs:
 
-- Superdense coding protocol - [[./superdense_coding.qasm]](./superdense_coding.qasm) -- [[Lecture notes]](https://cs.uwaterloo.ca/~watrous/LectureNotes/CPSC519.Winter2006/03.pdf)
+- [Superdense coding protocol](./src/superdense_coding/README.md) - [[Lecture notes]](https://cs.uwaterloo.ca/~watrous/LectureNotes/CPSC519.Winter2006/03.pdf)
